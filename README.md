@@ -26,7 +26,11 @@
    - 자격증 CRUD 기능 (생성, 업데이트)
    - 일정 crud
  - 박준우
-   - HBTI API 구현 및 백엔드 
+   - HBTI API 구현 및 백엔드
+   - 트레이너 리뷰 백엔드 보안 UI 및 프론트엔드
+   - Matching page Frontend
+   - HBTIAllPage 백엔드 및 프론트엔드 구현
+   - 프로필 수정 / 비밀번호 찾기 UI 
 
 ## Git Flow
 
